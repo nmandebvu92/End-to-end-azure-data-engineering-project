@@ -1,0 +1,15 @@
+{
+	"name": "nyashaADF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5233de20-c682-4271-b902-b2947fbdb58e",
+		"tenantId": "46207011-fd95-4d94-ae8c-15b6e736ed04"
+	}
+}
